@@ -5,4 +5,4 @@ Exploring NZ Crash data
 However, it was downloaded from the official NZTA Open Data Portal. 
 (https://opendata-nzta.opendata.arcgis.com)
 
-📖 Read the full blog post [here](https://your-blog-link.com).
+📖 Read the full blog post [here](https://jpudota.github.io/Portfolio/blogs/crash_system_analysis.html).
